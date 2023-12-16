@@ -1,2 +1,3 @@
 # its-my-demo
-This Is My First Repository
+This Is My First Repository.
+Author Nitesh Nagar
